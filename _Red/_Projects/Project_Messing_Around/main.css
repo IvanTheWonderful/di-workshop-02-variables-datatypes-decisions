@@ -1,0 +1,11 @@
+.background {
+    height:80px;
+}
+
+.background:nth-of-type(odd) {
+    background: skyblue;
+}
+
+.background:nth-of-type(even) {
+    background: rgb(113, 216, 65);
+}
